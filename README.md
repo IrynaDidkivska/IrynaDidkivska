@@ -74,11 +74,12 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=irynadidkivska&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats    
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irynadidkivska&layout=compact" align="center" /></div>  
 
 <br/>  
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=irynadidkivska&show_icons=true&theme=radical" align="center" /></div> 
 
 <br/>  
 
@@ -88,14 +89,8 @@
   
 
 <br/>  
+<p align="center">Made with ❤️ and ☕ </p>
 
-<div align="center">
-           
-                <img
-                    src="https://img.shields.io/badge/Make%20With%20A%20Love-orange.svg?style=flat-square&logo=makewithlove" 
-                    align="center"
-                />
-           </div>
-<br />
+
 
 
