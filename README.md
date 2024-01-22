@@ -8,13 +8,13 @@
 </div>  
   
 
-🔭 I’m proud of my last team project [Dream Master](https://drink-master-project.vercel.app/)  
+🔭 I’m proud of my last team project [Drink Master](https://drink-master-project.vercel.app/)  
   
 
 🌱 I’m currently learning **TypeScript** and **Next.js**  
   
 
-⚡ I never dreamed about success. I worked for it  
+⚡ If at first, you don’t succeed; call it version 1.0  
   
 
 <br/>  
