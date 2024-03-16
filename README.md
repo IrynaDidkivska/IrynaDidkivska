@@ -3,16 +3,18 @@
 ### <div align="center"> I'm Iryna, a frontend developer 👩‍💻</div>  
   
 
-<div align="center">
-<img src="https://cags.upsshub.com/pluginfile.php/40544/course/overviewfiles/programming.gif" align="center" style="width: 200 height: 200" />
-</div>  
-  
 
-🔭 I’m proud of my last team project [Drink Master](https://drink-master-project.vercel.app/)  
-  
+:woman_technologist: Project to hone my skills [Sakura`s Sweets](https://sakurassweets.asion.dev/)  
+
+
+:lotus_position_woman: Project for my soul [Plan B](https://plan-b-front.vercel.app/)   
+
+
+🔭 I’m proud of my last team project [Heand Of friends](https://hands-of-friends.vercel.app/ua)
+
 
 🌱 I’m currently learning **TypeScript** and **Next.js**  
-  
+
 
 ⚡ If at first, you don’t succeed; call it version 1.0  
   
