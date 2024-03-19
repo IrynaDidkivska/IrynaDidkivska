@@ -64,15 +64,16 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="center" >
 
-<a href="https://linkedin.com/in/iryna-didkivska" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="linkedin logo" style="margin-bottom: 5px;" /></a>
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="50" alt="discord logo"  style="margin-bottom: 5px;"/></a>
-<a href="https://www.facebook.com/ididkivska" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="50" alt="facebook logo"  style="margin-bottom: 5px;"/></a>
-<a href="https://instagram.com/irynadidkivska" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="50" alt="instagram logo"  style="margin-bottom: 5px;"/></a>
-<a href="https://t.me/IrynaDidkivska" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="50" alt="telegram logo"  style="margin-bottom: 5px;"/></a>
-<a href="https://wa.me/380635883219" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="50" alt="whatsapp logo"  style="margin-bottom: 5px;"/></a>
-<a href="https://womenintech.slack.com/team/U04HL17L52Q" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="50" height="50" alt="slack logo" style="margin-bottom: 5px;" /></a>
+<a href="https://linkedin.com/in/iryna-didkivska" target="_blank" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="linkedin logo" /></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="50" alt="discord logo"  /></a>
+<a href="https://www.facebook.com/ididkivska" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="50" alt="facebook logo"  /></a>
+<a href="https://instagram.com/irynadidkivska" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="50" alt="instagram logo"  /></a>
+<a href="https://t.me/IrynaDidkivska" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="50" alt="telegram logo"  /></a>
+<a href="https://wa.me/380635883219" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="55" alt="whatsapp logo"  /></a>
+<a href="https://womenintech.slack.com/team/U04HL17L52Q" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="50" height="50" alt="slack logo"  /></a>
+
 </div>  
   
 
