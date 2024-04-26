@@ -21,9 +21,7 @@
 
 <br/>  
 
-
 ## My Skill Set  
-
 
 ### Frontend  
 <div align="left">  
