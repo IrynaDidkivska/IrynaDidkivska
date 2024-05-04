@@ -7,7 +7,7 @@
 :woman_technologist: Project to hone my skills [Sakura`s Sweets](https://sakurassweets.asion.dev/)  
 
 
-:lotus_position_woman: Project for my soul [Plan B](https://plan-b-front.vercel.app/)   
+:lotus_position_woman: Project for my soul [Plan B](https://plan-b-2235.vercel.app/)   
 
 
 🔭 I’m proud of my last team project [Heand Of friends](https://hands-of-friends.vercel.app/ua)
