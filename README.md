@@ -10,7 +10,7 @@
 :lotus_position_woman: Project for my soul [Plan B](https://plan-b-2235.vercel.app/)   
 
 
-🔭 I’m proud of my last team project [Heand Of friends](https://hands-of-friends.vercel.app/ua)
+🔭 I’m proud of my last team project [Heand Of friends](https://rd.org.ua/)
 
 
 🌱 I’m currently learning **TypeScript** and **Next.js**  
