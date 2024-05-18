@@ -94,7 +94,7 @@
 
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://res.cloudinary.com/dfqclpulu/image/upload/v1716023152/sticker_bxnhca.webp"  />
 </div>
 
 ###
