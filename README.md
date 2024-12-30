@@ -4,13 +4,7 @@
   
 
 
-:woman_technologist: Project to hone my skills [Sakura`s Sweets](https://sakurassweets.asion.dev/)  
-
-
-:lotus_position_woman: Project for my soul [Plan B](https://plan-b-2235.vercel.app/)   
-
-
-🔭 I’m proud of my last team project [Boop](https://boop-alpha.vercel.app/)
+🔭 I’m proud of my last team project [Boop](https://boop.in.ua/en)
 
 
 🌱 I’m currently learning **TypeScript** and **Next.js**  
